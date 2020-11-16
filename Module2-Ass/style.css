@@ -13,6 +13,7 @@ div p {
 	border: 3px solid black;
 	margin: 40px;
 	width: auto;
+	background-color: lightgrey;
 }
 
 .col-lg-4 {
