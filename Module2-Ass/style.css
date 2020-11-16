@@ -1,24 +1,76 @@
 h1 {
 	text-align: center;
+	padding-top: 50px;
 }
 
-.container {
+.container-fluid {
 	float: left;
-	margin-right: 10px;
+	margin: 10px;
+	padding: auto ;
+	
+}
+ #Chicken {
+ 
+	border: 3px solid black;
+	background: pink;
+	text-align: center;
+	font-size: 1.25em;
+	width: 150px;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 650;
 	position: relative;
+	top: -22px;
+	right: -13px;
+
+
 }
 
-div p {
+
+#Beef {
+	border: 3px solid black;
+	background: red;
+	text-align: center;
+	font-size: 1.25em;
+	color: white;
+	width: 150px;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 650;
+	position: relative;
+	top: -22px;
+	right: -13px;
+}
+
+#Sushi {
+	border: 3px solid black;
+	background: #edb879;
+	text-align: center;
+	font-size: 1.25em;
+	width: 150px;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 650;
+	position: relative;
+	top: -22px;
+	right: -13px;
+
+}	
+.grey {
+	background: grey;
+	border: 3px solid black;
+	margin: 20px;
+	margin-top: 40px;
+	width: 400px;
+	height: auto;
 	padding: 10px;
-	border: 3px solid black;
-	margin: 40px;
-	width: auto;
-	background-color: green;
-}
+	font-weight: 550;
 
-.col-lg-4 {
-	border: 3px solid black;
-	text-align: right;
-	width: auto;
-	margin: 40px;
+}
+.col-xl-12 {
+	max-width: 840px;
+	width: 100%;
 }
