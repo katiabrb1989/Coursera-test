@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+}
+
+.container {
+	float: left;
+	margin-right: 10px;
+	position: relative;
+}
+
+div p {
+	padding: 10px;
+	border: 3px solid black;
+	margin: 40px;
+	width: auto;
+}
+
+.col-lg-4 {
+	border: 3px solid black;
+	text-align: right;
+	width: auto;
+	margin: 40px;
+}
