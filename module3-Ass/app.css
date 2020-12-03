@@ -61,6 +61,9 @@ h1{
   #collapsable-nav{
     margin-bottom: 0;
   }
+  #collapsable-nav #nav-list{
+    max-width: 100%;
+  }
  
 }
 
